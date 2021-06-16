@@ -1,0 +1,16 @@
+name: TestSthino
+version: 0.0.3
+author: Sthino
+main: me.sthino.items.Main
+description: A plugin with custom items made by Sthino
+api-version: 1.14
+commands:
+    stormbreaker:
+        description: Gives the player stormbreaker
+        usage: /<command>
+    thunderwand:
+        description: Gives the player thunderwand
+        usage: /<command>
+    evokerwand:
+        description: Gives the player evokerwand
+        usage: /<command>
